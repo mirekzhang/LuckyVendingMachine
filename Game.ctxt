@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ The\ main\ program\ of\ Lucky\ Vending\ Machine.\r\n\r\n\ @author\ \ Mirek\r\n\ @version\ 14\ Sempt.\ 2017\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ a\ new\ game\ with\ empty\ player\ data.\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ Display\ the\ main\ menu.\r\n
+comment3.params=
+comment3.target=void\ displayPrizes()
+comment3.text=\r\n\ Display\ the\ record\ of\ a\ player's\ name\ and\ all\ the\ prizes\ he\ has\ won,\ the\ total\ worth\ of\ \ \r\n\ the\ prizes,\ and\ how\ much\ money\ he\ has\ spent.\r\n
+comment4.params=
+comment4.target=void\ gameHelp()
+comment4.text=\r\n\ Display\ the\ game\ help.\r\n
+comment5.params=
+comment5.target=void\ guessNumber()
+comment5.text=\r\n\ Guess\ a\ number.\r\n
+comment6.params=
+comment6.target=void\ setPlayer()
+comment6.text=\r\n\ Set\ a\ new\ player.\r\n
+comment7.params=
+comment7.target=void\ startGame()
+comment7.text=\r\n\ Start\ the\ game.\r\n
+numComments=8

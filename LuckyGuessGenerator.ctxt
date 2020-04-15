@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LuckyGuessGenerator
+comment0.text=\r\n\ This\ is\ a\ random\ number\ generator\ that\ generates\ an\ integer\ between\ 1-5.\r\n\r\n\ @author\ \ Mirek\r\n\ @version\ 14\ Sempt.\ 2017\r\n
+comment1.params=
+comment1.target=LuckyGuessGenerator()
+comment1.text=\r\n\ Create\ a\ new,\ empty\ lucky\ guess\ generator.\r\n
+comment2.params=
+comment2.target=int\ randomNumber()
+comment2.text=\r\n\ Generate\ an\ integer\ between\ 1-5.\r\n\ @Return\ the\ integer.\r\n
+numComments=3
